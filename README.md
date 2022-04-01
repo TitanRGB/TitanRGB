@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
   <p align="left">A G12 noob, project-based learner, now working on universities' applications. Know a little bit of most part, come to view real pro. | 准大一菜鸡，为了自学做做项目，目前在忙申请。啥都只会一点，来给大佬倒茶。</br></p>
   <hr />
   <p>
