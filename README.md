@@ -12,8 +12,7 @@
   </p>
 </div>
 <hr />
-<details>
-<summary><h1>All works is now classified 📚 to my own organizations</h1><br/>click to see details ⬆</summary>
+<h1>All works is now classified 📚 to my own organizations</h1>
 <div>
   <div>
     <span><a href="https://github.com/SynRGB"><img align="left" width="17%" src="https://i.postimg.cc/G38X8DZc/ico8-1.jpg"></img></a><h2><strong>SynRGB</strong> | <code>Softwares</code> <code>Extensions</code> <code>Scripts</code> <img width="9%" align="bottom" src="https://img.shields.io/badge/dynamic/json?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgYXJpYS1oaWRkZW49InRydWUiPgogPGc+CiAgPHRpdGxlPkxheWVyIDE8L3RpdGxlPgogIDxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNzdmdfMV9ibHVyKSIgaWQ9InN2Z18xIiBkPSJtOC4wMDA5NSwwLjkxODQ3YTAuNzUsMC43NSAwIDAgMSAwLjY3MywwLjQxOGwxLjg4MiwzLjgxNWw0LjIxLDAuNjEyYTAuNzUsMC43NSAwIDAgMSAwLjQxNiwxLjI3OWwtMy4wNDYsMi45N2wwLjcxOSw0LjE5MmEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LDAuNzkxbC0zLjc2NiwtMS45OGwtMy43NjYsMS45OGEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LC0wLjc5bDAuNzIsLTQuMTk0bC0zLjA0OCwtMi45NjlhMC43NSwwLjc1IDAgMCAxIDAuNDE2LC0xLjI4bDQuMjEsLTAuNjExbDEuODgzLC0zLjgxNWEwLjc1LDAuNzUgMCAwIDEgMC42NzMsLTAuNDE4em0wLDIuNDQ1bC0xLjM4NSwyLjgwNWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LDAuNDFsLTMuMDk3LDAuNDVsMi4yNCwyLjE4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsMC42NjRsLTAuNTI4LDMuMDg0bDIuNzY5LC0xLjQ1NmEwLjc1LDAuNzUgMCAwIDEgMC42OTgsMGwyLjc3LDEuNDU2bC0wLjUzLC0zLjA4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsLTAuNjY0bDIuMjQsLTIuMTgzbC0zLjA5NiwtMC40NWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LC0wLjQxbC0xLjM4NSwtMi44MDdsMCwwLjAwMXoiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgogPC9nPgogPGRlZnM+CiAgPGZpbHRlciBpZD0ic3ZnXzFfYmx1ciI+CiAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjAiIGluPSJTb3VyY2VHcmFwaGljIi8+CiAgPC9maWx0ZXI+CiA8L2RlZnM+Cjwvc3ZnPg==&amp;label=Stars&style=flat-square&amp;query=%24.stars&amp;url=https://api.github-star-counter.workers.dev/user/SynRGB" referrerpolicy="no-referrer"></h2>
@@ -36,7 +35,6 @@
   </div>
   <br/><br/>
 </div>
-</details>
 <hr />
 <div>
   <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
