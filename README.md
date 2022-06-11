@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
   <h2 align="left">Studying computer engineering at Michigan State University, project-based learner. Know a little bit of most part, come to view real pro.<br/>密歇根州立大学CE学生，为了自学做做项目。啥都浅修一点，来给大佬倒茶。</h2>
     <p>
     <a href='https://space.bilibili.com/62596542'><img src="https://img.shields.io/badge/-Syn·S-fb7299?style=flat&amp;logo=Bilibili&amp;logoColor=white" referrerpolicy="no-referrer" alt="Bilibili"></a>
