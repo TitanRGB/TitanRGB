@@ -7,7 +7,9 @@
   <a href='https://sketchfab.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-1CAAD9?style=flat&amp;logo=Sketchfab&amp;logoColor=white" referrerpolicy="no-referrer" alt="Sketchfab"></a>
   <a href='https://www.youtube.com/channel/UC81J1wPu1f1Dm3R8yWnrDqw'><img src="https://img.shields.io/badge/-SynRGB-FF0000?style=flat&amp;logo=YouTube&amp;logoColor=white" referrerpolicy="no-referrer" alt="YouTube"></a>
   <a href='https://oshwhub.com/RGB_YES'><img src="https://img.shields.io/badge/-RGB_YES-5588ff?style=flat&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAA2UlEQVRIie1W0RLDIAjD3f7/l9nTro4RCFivvd3y1oomQQXlKoyZV1VZGTZwgLjPoHGEPRqGPXUK/kM8FwiHM6bOmAvGsefGLmy/U/eR41LqJnLKPXJcJbUC7DZ8rWeJbRB1WgsCIDGalCE61XSqV1zS5J17zJCnZ2QH8SwAolJA6EUZ7HQc4k/8+8TdU13uRha3TvVKCV0ilqzTdODtcdTAbbNn4MZax2kDD0R5gAJRWzw1rV5/j/aYdV8ifCO7x6UHnDMPgi0gkYDWG61aQKKKteW+nwsReQHXpy5D9yKlhQAAAABJRU5ErkJggg==&amp;logoColor=white" referrerpolicy="no-referrer" alt="OSHWHub"></a>
-<!--   <a href='https://github.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> -->
+  <a href='https://github.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
+  <a href='https://gitlab.com/SynthesisDu'><img src="https://img.shields.io/badge/-SynthesisDu-FC6D26?style=flat&amp;logo=GitLab&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
+  <a href='https://gitee.com/ddzbxh'><img src="https://img.shields.io/badge/-SynthesisDu-C71D23?style=flat&amp;logo=Gitee&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
   </p>
 </div>
 <hr />
