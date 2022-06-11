@@ -1,6 +1,6 @@
 <div>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
-  <h2 align="left">Studying computer engineering at Michigan State University, project-based learner. Know a little bit of most part, come to view real pro.<br/>密歇根州立大学CE学生，为了自学做做项目。啥都浅修一点，来给大佬倒茶。</h2><br/><br/>
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
+  <h2 align="left">Studying computer engineering at Michigan State University, project-based learner. Know a little bit of most part, come to view real pro.<br/>密歇根州立大学CE学生，为了自学做做项目。啥都浅修一点，来给大佬倒茶。</h2>
     <p>
     <a href='https://space.bilibili.com/62596542'><img src="https://img.shields.io/badge/-Syn·S-fb7299?style=flat&amp;logo=Bilibili&amp;logoColor=white" referrerpolicy="no-referrer" alt="Bilibili"></a>
   <a href='https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIxODQ0NzQ1OQ==&amp;scene=124&amp;uin=&amp;key=&amp;devicetype=Windows+10+x64&amp;version=63010043&amp;lang=zh_CN&amp;a8scene=7&amp;fontgear=2'><img src="https://img.shields.io/badge/-SynthesisDu-green?style=flat&amp;logo=Wechat&amp;logoColor=white" referrerpolicy="no-referrer" alt="Wechat"></a>
