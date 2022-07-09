@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=SynthesisDu&show_icons=true&include_all_commits=true&hide=stars" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=TitanRGB&show_icons=true&include_all_commits=true&hide=stars" />
   <h2 align="left">Studying computer engineering at Michigan State University, project-based learner. Know a little bit of each part, come to view real pro.  密歇根州立大学CE学生，为了自学做做项目。每样会一点，来给大佬倒茶。</h2>
     <p>
     <a href='https://space.bilibili.com/62596542'><img src="https://img.shields.io/badge/-泰坦RGB-fb7299?style=flat&amp;logo=Bilibili&amp;logoColor=white" referrerpolicy="no-referrer" alt="Bilibili"></a>
@@ -41,7 +41,7 @@
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
   <pre><code class='language-java' width="60%" lang='java'>if (homework.type == plagiarised) score = score * 0;</code></pre>
   <pre><code class='language-python' width="60%" lang='python'>while True: earthOnline.newTask("keep alive")</code></pre>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthesisdu&langs_count=15&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=15&layout=compact" />
 </div>
 <hr />
 <details>
