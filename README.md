@@ -21,50 +21,10 @@
   <a href='https://gitee.com/ddzbxh'><img src="https://img.shields.io/badge/-SynthesisDu-C71D23?style=flat&amp;logo=Gitee&amp;logoColor=white" referrerpolicy="no-referrer" alt="Gitee"></a>
   </p>
 </div>
-<hr />
-<h1>There's two own organizations to classify part of my works.</h1>
-<div>
-<!--   <div>
-    <span><a href="https://github.com/SynRGB"><img align="left" width="17%" src="https://i.postimg.cc/G38X8DZc/ico8-1.jpg"></img></a><h2><strong>SynRGB</strong> | <code>Softwares</code> <code>Extensions</code> <code>Scripts</code> <img width="9%" align="bottom" src="https://img.shields.io/badge/dynamic/json?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgYXJpYS1oaWRkZW49InRydWUiPgogPGc+CiAgPHRpdGxlPkxheWVyIDE8L3RpdGxlPgogIDxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNzdmdfMV9ibHVyKSIgaWQ9InN2Z18xIiBkPSJtOC4wMDA5NSwwLjkxODQ3YTAuNzUsMC43NSAwIDAgMSAwLjY3MywwLjQxOGwxLjg4MiwzLjgxNWw0LjIxLDAuNjEyYTAuNzUsMC43NSAwIDAgMSAwLjQxNiwxLjI3OWwtMy4wNDYsMi45N2wwLjcxOSw0LjE5MmEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LDAuNzkxbC0zLjc2NiwtMS45OGwtMy43NjYsMS45OGEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LC0wLjc5bDAuNzIsLTQuMTk0bC0zLjA0OCwtMi45NjlhMC43NSwwLjc1IDAgMCAxIDAuNDE2LC0xLjI4bDQuMjEsLTAuNjExbDEuODgzLC0zLjgxNWEwLjc1LDAuNzUgMCAwIDEgMC42NzMsLTAuNDE4em0wLDIuNDQ1bC0xLjM4NSwyLjgwNWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LDAuNDFsLTMuMDk3LDAuNDVsMi4yNCwyLjE4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsMC42NjRsLTAuNTI4LDMuMDg0bDIuNzY5LC0xLjQ1NmEwLjc1LDAuNzUgMCAwIDEgMC42OTgsMGwyLjc3LDEuNDU2bC0wLjUzLC0zLjA4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsLTAuNjY0bDIuMjQsLTIuMTgzbC0zLjA5NiwtMC40NWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LC0wLjQxbC0xLjM4NSwtMi44MDdsMCwwLjAwMXoiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgogPC9nPgogPGRlZnM+CiAgPGZpbHRlciBpZD0ic3ZnXzFfYmx1ciI+CiAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjAiIGluPSJTb3VyY2VHcmFwaGljIi8+CiAgPC9maWx0ZXI+CiA8L2RlZnM+Cjwvc3ZnPg==&amp;label=Stars&style=flat-square&amp;query=%24.stars&amp;url=https://api.github-star-counter.workers.dev/user/SynRGB" referrerpolicy="no-referrer"></h2>
-<h4>长期维护项目。| Maintenancing projects.</h4></span>
-  </div>
-  <br/><br/> -->
-<!--   <div>
-  <span><a href="https://github.com/SynFUN"><img align="left" width="17%" src="https://i.postimg.cc/G2B93X8n/3-1.jpg"></img></a><h2><strong>SynFUN</strong> | <code>Disposables</code> <code>Portables</code> <img width="9%" align="bottom" src="https://img.shields.io/badge/dynamic/json?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgYXJpYS1oaWRkZW49InRydWUiPgogPGc+CiAgPHRpdGxlPkxheWVyIDE8L3RpdGxlPgogIDxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNzdmdfMV9ibHVyKSIgaWQ9InN2Z18xIiBkPSJtOC4wMDA5NSwwLjkxODQ3YTAuNzUsMC43NSAwIDAgMSAwLjY3MywwLjQxOGwxLjg4MiwzLjgxNWw0LjIxLDAuNjEyYTAuNzUsMC43NSAwIDAgMSAwLjQxNiwxLjI3OWwtMy4wNDYsMi45N2wwLjcxOSw0LjE5MmEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LDAuNzkxbC0zLjc2NiwtMS45OGwtMy43NjYsMS45OGEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LC0wLjc5bDAuNzIsLTQuMTk0bC0zLjA0OCwtMi45NjlhMC43NSwwLjc1IDAgMCAxIDAuNDE2LC0xLjI4bDQuMjEsLTAuNjExbDEuODgzLC0zLjgxNWEwLjc1LDAuNzUgMCAwIDEgMC42NzMsLTAuNDE4em0wLDIuNDQ1bC0xLjM4NSwyLjgwNWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LDAuNDFsLTMuMDk3LDAuNDVsMi4yNCwyLjE4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsMC42NjRsLTAuNTI4LDMuMDg0bDIuNzY5LC0xLjQ1NmEwLjc1LDAuNzUgMCAwIDEgMC42OTgsMGwyLjc3LDEuNDU2bC0wLjUzLC0zLjA4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsLTAuNjY0bDIuMjQsLTIuMTgzbC0zLjA5NiwtMC40NWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LC0wLjQxbC0xLjM4NSwtMi44MDdsMCwwLjAwMXoiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgogPC9nPgogPGRlZnM+CiAgPGZpbHRlciBpZD0ic3ZnXzFfYmx1ciI+CiAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjAiIGluPSJTb3VyY2VHcmFwaGljIi8+CiAgPC9maWx0ZXI+CiA8L2RlZnM+Cjwvc3ZnPg==&amp;label=Stars&style=flat-square&amp;query=%24.stars&amp;url=https://api.github-star-counter.workers.dev/user/SynFUN" referrerpolicy="no-referrer"></h2>
-<h4>一次性项目，用后不再维护。| Disposable projects, no maintenance.</h4></span>
-  </div>
-  <br/><br/> -->
-  <div>
-  <span><a href="https://github.com/SynEGR"><img align="left" width="17%" src="https://i.postimg.cc/NMWFKRm9/HDWicon3-1.jpg"></img></a><h2><strong>SynEGR</strong> | <code>Modeling</code> <code>Circuits</code> <code>Hardwares</code> <img width="9%" align="bottom" src="https://img.shields.io/badge/dynamic/json?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgYXJpYS1oaWRkZW49InRydWUiPgogPGc+CiAgPHRpdGxlPkxheWVyIDE8L3RpdGxlPgogIDxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNzdmdfMV9ibHVyKSIgaWQ9InN2Z18xIiBkPSJtOC4wMDA5NSwwLjkxODQ3YTAuNzUsMC43NSAwIDAgMSAwLjY3MywwLjQxOGwxLjg4MiwzLjgxNWw0LjIxLDAuNjEyYTAuNzUsMC43NSAwIDAgMSAwLjQxNiwxLjI3OWwtMy4wNDYsMi45N2wwLjcxOSw0LjE5MmEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LDAuNzkxbC0zLjc2NiwtMS45OGwtMy43NjYsMS45OGEwLjc1LDAuNzUgMCAwIDEgLTEuMDg4LC0wLjc5bDAuNzIsLTQuMTk0bC0zLjA0OCwtMi45NjlhMC43NSwwLjc1IDAgMCAxIDAuNDE2LC0xLjI4bDQuMjEsLTAuNjExbDEuODgzLC0zLjgxNWEwLjc1LDAuNzUgMCAwIDEgMC42NzMsLTAuNDE4em0wLDIuNDQ1bC0xLjM4NSwyLjgwNWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LDAuNDFsLTMuMDk3LDAuNDVsMi4yNCwyLjE4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsMC42NjRsLTAuNTI4LDMuMDg0bDIuNzY5LC0xLjQ1NmEwLjc1LDAuNzUgMCAwIDEgMC42OTgsMGwyLjc3LDEuNDU2bC0wLjUzLC0zLjA4NGEwLjc1LDAuNzUgMCAwIDEgMC4yMTYsLTAuNjY0bDIuMjQsLTIuMTgzbC0zLjA5NiwtMC40NWEwLjc1LDAuNzUgMCAwIDEgLTAuNTY0LC0wLjQxbC0xLjM4NSwtMi44MDdsMCwwLjAwMXoiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgogPC9nPgogPGRlZnM+CiAgPGZpbHRlciBpZD0ic3ZnXzFfYmx1ciI+CiAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjAiIGluPSJTb3VyY2VHcmFwaGljIi8+CiAgPC9maWx0ZXI+CiA8L2RlZnM+Cjwvc3ZnPg==&amp;label=Stars&style=flat-square&amp;query=%24.stars&amp;url=https://api.github-star-counter.workers.dev/user/SynEGR" referrerpolicy="no-referrer"></h2>
-<h4>自用的硬件项目。| Self-use electronic engeneering projects.</h4></span>
-  </div>
-  <br/><br/>
-  <div>
-  <span><a href="https://github.com/SynURL"><img align="left" width="17%" src="https://i.postimg.cc/xjzqWFVK/icon.png"></img></a><h2><strong>SynURL</strong> | <code>GitHub Pages</code></h2>
-<h4>静态网页，太乱所以单开个组织。| GitHub Pages, organization for less messy.</h4></span>
-  </div>
-  <br/><br/>
-</div>
-<hr />
+
 <div>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlllIlIlIIlIl" />
   <pre><code class='language-java' width="60%" lang='java'>if (homework.type == plagiarised) score = score * 0;</code></pre>
   <pre><code class='language-python' width="60%" lang='python'>while True: earthOnline.newTask("keep alive")</code></pre>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=15&layout=compact" />
 </div>
-<hr />
-<details>
-<summary><h1>Part of recent works 🧐</h1><br/>click to see details ⬆</summary>
-<div>
-<figure><table>
-<thead>
-<tr><th><h2><a href='https://github.com/SynEGR/LogitechG502Reverse'>Logitech G502 Reverse</a></h1><h3>In order to facilitate modification, copied G502 motherboard's PCB layout.</h3><a href="https://github.com/SynEGR/LogitechG502Reverse"><img align="middle" src="https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.1/readme-pcb.png"></img></a></th></tr></thead>
-</table></figure>
-<figure><table>
-<thead>
-<tr><th><h2><a href='https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify'>GW-ERP2U700 Modify</a></h1><h3>Server power supply GW-ERP2U700&#39;s MOD refit to full module.</h3><a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><img align="middle" src="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png"></img></a></th></tr></thead>
-</table></figure>
-<span><table><tr><td width="45%"><a href="https://github.com/SynFUN/OrgPeopleListBuilder"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynFUN&repo=OrgPeopleListBuilder" border=0></img></a></td><td width="55%"><p  style="font-size:10px">Puppeteer 爬虫，有界面交互逻辑，用来爬取 GitHub Organization 的人员名单与对应所在的页数。</br>A Puppeteer crawler project with interface interaction logic that crawls the GitHub Organization's people list and their corresponding pages.</p></td></tr></table></span>
-<span><a href="https://github.com/SynRGB/AcFunScrollVolume"><table><tr><td><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=SynRGB&repo=AcFunScrollVolume" border=0></img></td><td><img height="140" src="https://i.postimg.cc/g0k48hjT/ico.png" border=0></img></td><td><img height="140" src="https://i.postimg.cc/2Sx21GkW/repository-open-graph-template.png" border=0></img></td></tr></table></a></span>
-</div>
-</details>
