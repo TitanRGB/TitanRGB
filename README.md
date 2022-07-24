@@ -1,4 +1,3 @@
-<div style="width:30%">
 <figure>
     <table>
         <thead></thead>
@@ -111,4 +110,3 @@
         </tbody>
     </table>
 </figure>
-</div>
