@@ -1,5 +1,5 @@
-<figure width="60%">
-    <table>
+<figure>
+    <table width="60%">
         <thead></thead>
         <tbody>
             <tr>
