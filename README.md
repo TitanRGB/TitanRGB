@@ -1,4 +1,4 @@
-<table id="root" border="" width="10%">
+<table width="500">
     <tr>
         <td>
             <figure>
