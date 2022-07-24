@@ -1,5 +1,4 @@
-<figure>
-    <table>
+<table>
         <thead></thead>
         <tbody>
             <tr>
@@ -109,4 +108,3 @@
             </tr>
         </tbody>
     </table>
-</figure>
