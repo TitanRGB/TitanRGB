@@ -1,4 +1,4 @@
-<table border="0" width="400">
+<table>
     <tr>
         <td>
             <figure>
