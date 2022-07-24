@@ -1,4 +1,5 @@
-<figure style="width:30%;table-layout:fixed;">
+<div style="width:30%">
+<figure>
     <table>
         <thead></thead>
         <tbody>
@@ -110,3 +111,4 @@
         </tbody>
     </table>
 </figure>
+</div>
