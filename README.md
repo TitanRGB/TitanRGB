@@ -1,5 +1,5 @@
-<figure>
-    <table style="width:30%;table-layout:fixed;">
+<figure style="width:30%;table-layout:fixed;">
+    <table>
         <thead></thead>
         <tbody>
             <tr>
