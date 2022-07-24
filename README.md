@@ -1,7 +1,7 @@
-<figure>
-    <table>
+<figure style="width:100px">
+    <table style="width:100px">
         <thead></thead>
-        <tbody>
+        <tbody style="width:100px">
             <tr>
                 <td>
                     <figure>
