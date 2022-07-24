@@ -46,7 +46,10 @@
 
 <hr />
 <div>
+<!--  https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=2&layout=compact&hide=JavaScript,TypeScript,,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile  -->
   <img width="30%" src="./Used Languages for General.svg" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=2&layout=compact&hide=Java,Python,Markdown,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=15&layout=compact&hide=Python,Java,JavaScript,TypeScript,,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile" />
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=2&layout=compact&hide=Java,Python,Markdown,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile -->
+  <img width="30%" src="" />
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=15&layout=compact&hide=Python,Java,JavaScript,TypeScript,,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile -->
+  <img width="30%" src="" />
 </div>
