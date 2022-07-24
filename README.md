@@ -1,4 +1,4 @@
-<figure>
+<figure width="60%">
     <table>
         <thead></thead>
         <tbody>
