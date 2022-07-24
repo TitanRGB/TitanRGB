@@ -1,4 +1,5 @@
-<table width="500">
+<table>
+<tbody width="30%">
     <tr>
         <td>
             <figure>
@@ -90,4 +91,5 @@
                 </code>
         </td>
     </tr>
+</tbody>
 </table>
