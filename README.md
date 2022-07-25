@@ -73,14 +73,7 @@
     </tr>
 </table>
 
-<table>
-    <tr>
-        <td><code class='language-java' lang='java'>if (homework.type == plagiarised) score = score * 0;
-                </code>
-            <br />
-            <code class='language-python' width="60%" lang='python'>
-                    while True: earthOnline.newTask("keep alive")
-                </code>
-        </td>
-    </tr>
-</table>
+```java
+if (homework.type == plagiarised) score = score * 0;
+```
+
