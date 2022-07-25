@@ -45,7 +45,7 @@
         </td>
     </tr>
 </table>
-<table>
+<table width="100%">
     <tr>
         <td><h4>Now mainly working with 目前在做的:</h4><div>
         <span><img src="https://shields.io/badge/Hardware-9cf?style=flat" />   <code>Linux Pi PCB Design</code> | <code>Home Data Center O&amp;M</code>| <code>Ham Radio</code> | <code>Hardware Collection</code> | <code>Water Cooling MOD</code></span><br/>
