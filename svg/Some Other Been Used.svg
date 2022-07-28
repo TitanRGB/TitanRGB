@@ -81,24 +81,8 @@
           
     <svg data-testid="lang-items" x="25">
       <g transform="translate(0, 0)">
-    <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
-    <text x="215" y="34" class="lang-name">81.52%</text>
-    
-    <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <rect
-          height="8"
-          fill="#563d7c"
-          rx="5" ry="5" x="0" y="0" 
-          data-testid="lang-progress"
-          width="81.52%"
-      >
-      </rect>
-    </svg>
-  
-  </g><g transform="translate(0, 40)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
-    <text x="215" y="34" class="lang-name">11.82%</text>
+    <text x="215" y="34" class="lang-name">54.60%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -107,14 +91,14 @@
           fill="#f34b7d"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="11.82%"
+          width="54.6%"
       >
       </rect>
     </svg>
   
-  </g><g transform="translate(0, 80)">
+  </g><g transform="translate(0, 40)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Markdown</text>
-    <text x="215" y="34" class="lang-name">6.37%</text>
+    <text x="215" y="34" class="lang-name">42.85%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -123,20 +107,36 @@
           fill="#083fa1"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="6.37%"
+          width="42.85%"
       >
       </rect>
     </svg>
   
-  </g><g transform="translate(0, 120)">
+  </g><g transform="translate(0, 80)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Batchfile</text>
-    <text x="215" y="34" class="lang-name">0.29%</text>
+    <text x="215" y="34" class="lang-name">1.32%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
       <rect
           height="8"
           fill="#C1F12E"
+          rx="5" ry="5" x="0" y="0" 
+          data-testid="lang-progress"
+          width="2%"
+      >
+      </rect>
+    </svg>
+  
+  </g><g transform="translate(0, 120)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">Makefile</text>
+    <text x="215" y="34" class="lang-name">1.23%</text>
+    
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <rect
+          height="8"
+          fill="#427819"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
           width="2%"

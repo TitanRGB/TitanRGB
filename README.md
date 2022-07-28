@@ -67,7 +67,7 @@
                 src="./svg/Most Used for Hardware Design.svg" />
         </td>
         <td>
-            <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=4&hide=Altium%20Designer,Wavefront%20Object,KiCad%20Layout,Gerber%20Image,Java,Python,JavaScript,Typescript,TeX,Roff,Jupyter%20Notebook,Fortran,Cython,HTML,Makefile --><img
+            <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=4&hide=CSS,Altium%20Designer,Wavefront%20Object,KiCad%20Layout,Gerber%20Image,Java,Python,JavaScript,Typescript,TeX,Roff,Jupyter%20Notebook,Fortran,Cython,HTML --><img
                 src="./svg/Some Other Been Used.svg" />
         </td>
     </tr>
