@@ -63,7 +63,7 @@
                 src="./svg/Most Used for General.svg" />
         </td>
         <td>
-            <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=4&hide=C%2B%2B,Java,Python,JavaScript,Typescript,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile --><img
+            <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=TitanRGB&langs_count=4&hide=Markdown,C%2B%2B,Java,Python,JavaScript,Typescript,HTML,CSS,Roff,TeX,Jupyter%20Notebook,Fortran,Cython,Batchfile,Makefile --><img
                 src="./svg/Most Used for Hardware Design.svg" />
         </td>
         <td>

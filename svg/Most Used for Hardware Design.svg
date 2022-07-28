@@ -82,7 +82,7 @@
     <svg data-testid="lang-items" x="25">
       <g transform="translate(0, 0)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Altium Designer</text>
-    <text x="215" y="34" class="lang-name">25.00%</text>
+    <text x="215" y="34" class="lang-name">99.30%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -91,14 +91,14 @@
           fill="#A89663"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="25%"
+          width="99.3%"
       >
       </rect>
     </svg>
   
   </g><g transform="translate(0, 40)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Wavefront Object</text>
-    <text x="215" y="34" class="lang-name">25.00%</text>
+    <text x="215" y="34" class="lang-name">0.23%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -107,14 +107,14 @@
           fill="#858585"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="25%"
+          width="2%"
       >
       </rect>
     </svg>
   
   </g><g transform="translate(0, 80)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">KiCad Layout</text>
-    <text x="215" y="34" class="lang-name">25.00%</text>
+    <text x="215" y="34" class="lang-name">0.23%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -123,14 +123,14 @@
           fill="#2f4aab"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="25%"
+          width="2%"
       >
       </rect>
     </svg>
   
   </g><g transform="translate(0, 120)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Gerber Image</text>
-    <text x="215" y="34" class="lang-name">25.00%</text>
+    <text x="215" y="34" class="lang-name">0.23%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -139,7 +139,7 @@
           fill="#d20b00"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="25%"
+          width="2%"
       >
       </rect>
     </svg>
